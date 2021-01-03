@@ -5,3 +5,8 @@
   left: 0;
   right: 0;
 }
+
+svg {
+  height: 20px;
+  width: 20px;
+}
