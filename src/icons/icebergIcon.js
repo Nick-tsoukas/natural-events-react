@@ -19,4 +19,5 @@ const icebergeIcon = `<?xml version="1.0" encoding="UTF-8"?>
 		<path d="m290.479 275.479h49.429v30h-49.429z" fill="#77d7f2"/>
 	</g>
 </svg>`;
-		export default icebergeIcon
+
+export default icebergeIcon

@@ -18,4 +18,5 @@ const stormIcon = `<?xml version="1.0" encoding="UTF-8"?>
 		</g>
 	</g>
 </svg>`;
+
 export default stormIcon
